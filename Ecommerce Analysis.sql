@@ -1,7 +1,5 @@
 Create Database Ecommerce;
 USE Ecommerce;
-SHOW DATABASES;
-SHOW TABLES;
 SELECT * FROM master_table LIMIT 10;
 
 -- 1. What are the top 5 product categories by revenue?
