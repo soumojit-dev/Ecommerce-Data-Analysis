@@ -6,7 +6,6 @@
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Soumojit%20Maitra-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/soumojitmaitra/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
 
 ---
 
