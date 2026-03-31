@@ -125,7 +125,8 @@ An interactive Power BI dashboard was created to monitor:
 - Delivery efficiency  
 - Customer ratings  
 
-📌 *(Add your dashboard screenshot here)*
+📌 <img width="1439" height="717" alt="image" src="https://github.com/user-attachments/assets/7cdbc36c-d794-42ef-868f-b90c954e99e3" />
+
 
 ---
 
